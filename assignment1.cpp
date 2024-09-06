@@ -27,7 +27,7 @@ int main() {
     return 0;
 }
 
-// Read inputs and return to the main program
+// Read inputs and return references to the main program
 void readInputs(double &price, double &quantity) {
     cout << "Enter the price of an item: ";
     cin >> price;
