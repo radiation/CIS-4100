@@ -5,8 +5,8 @@ class Book:
     Book(isbn="123456") or Book(title="How To Succeed In Python Without Really Trying", author="Bryan Choate").
 
     If I were doing this for any sort of production application, "author" would be a 
-    separate class, and we'd use an enum for category. We'd also create a shopping cart
-    of some sort so you can checkout with multiple books at once. But we're on the clock
+    separate class, and we'd use an enum or dict for category. We'd also create a shopping 
+    cart of some sort so you can checkout with multiple books at once. But we're on the clock
     for this exam, so we'll keep it pretty simple.
     '''
     def __init__(self, isbn=None, title=None, author=None):
