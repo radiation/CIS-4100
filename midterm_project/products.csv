@@ -1,0 +1,13 @@
+product_id,title,author,price,stock
+101,Pride and Prejudice,Jane Austen,10.99,15
+102,1984,George Orwell,8.99,20
+103,Moby Dick,Herman Melville,12.99,10
+104,To Kill a Mockingbird,Harper Lee,9.99,25
+105,The Great Gatsby,F. Scott Fitzgerald,7.99,30
+106,War and Peace,Leo Tolstoy,14.99,8
+107,Crime and Punishment,Fyodor Dostoevsky,11.99,12
+108,The Odyssey,Homer,10.49,18
+109,Jane Eyre,Charlotte Brontë,9.49,22
+110,The Catcher in the Rye,J.D. Salinger,8.49,16
+111,The Brothers Karamazov,Fyodor Dostoevsky,13.99,9
+112,Brave New World,Aldous Huxley,10.99,14
